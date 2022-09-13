@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SQLStatus.exe" version="1.0.0.0" publicKeyToken="3b1ff51050af9e56" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SQLStatus" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SQLStatus.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SQLStatus.exe" size="9216">
+      <assemblyIdentity name="SQLStatus" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>WCs15NVLBhs7Ul3RlPtKf6zddgc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=MILLERHOME\blake" issuerKeyHash="e2c62c0dc2cf5ca96dddf520965bf9508cbe4554" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dqHaggmxEE+tMFSGEu4Ip/aDGDY=</DigestValue></Reference></SignedInfo><SignatureValue>vl4XA7QTt9dWHyUKryjYxYgckamA/q83e2qEogyDzTnuOq14SiriRSz1HW3+L7sa9Ispg0p0uo9QslHr8iopuOgfrwXHXL+lHq27KNNOXg4BPsBF24KE5cO+Z6IE4W2RU9SiHiG2cN0LctlPv/ZqRdP/EsF1v6WeaIBJWwFGIbk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0kTazttd6w1H9sEv/HaYyP2XxE1dtCCJkB83x2sbMKCR7nkCuBE9fpd0JAieFJKJ1eg8MvOdh3a8BAefnO73W2XZr+xkE7j3ujr+lSAEi0DU8N1jo6RZOWdPZ0In+RrjTb1iWmyQu8Pyy1MvfMfeWpti2szSiPA3uN4lFZNKfes=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="361883f6a708ee12865430ad4f10b10982daa176" Description="" Url=""><as:assemblyIdentity name="SQLStatus.exe" version="1.0.0.0" publicKeyToken="3b1ff51050af9e56" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MILLERHOME\blake</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>G8OxYOL2lZze6dPa3LHq2uNPWUo=</DigestValue></Reference></SignedInfo><SignatureValue>XwUV0dHOVU36QF9+cYuwQG6PXchIKlMbNpIpQ/DIfB89dXtMwUmgNIi8foIN7x8xs9P6mw5c/SMxeE7FHMacncuesuLeEMY1qsbKDoOLazey13vjGb42TwyrppabhmDDf4odx5PPo9Tj1/Ucj3qEAkUBgabyhQZXO3I2ao38dks=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0kTazttd6w1H9sEv/HaYyP2XxE1dtCCJkB83x2sbMKCR7nkCuBE9fpd0JAieFJKJ1eg8MvOdh3a8BAefnO73W2XZr+xkE7j3ujr+lSAEi0DU8N1jo6RZOWdPZ0In+RrjTb1iWmyQu8Pyy1MvfMfeWpti2szSiPA3uN4lFZNKfes=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQczHlm+lilotN1QkWdBhaTjANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAATQBJAEwATABFAFIASABPAE0ARQBcAGIAbABhAGsAZTAeFw0xMjA5MjcyMDQxMzZaFw0xMzA5MjgwMjQxMzZaMCsxKTAnBgNVBAMeIABNAEkATABMAEUAUgBIAE8ATQBFAFwAYgBsAGEAawBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSRNrO213rDUf2wS/8dpjI/ZfETV20IImQHzfHaxswoJHueQK4ET1+l3QkCJ4UkonV6Dwy852HdrwEB5+c7vdbZdmv7GQTuPe6Ov6VIASLQNTw3WOjpFk5Z09nQif5GuNNvWJabJC7w/LLUy98x95am2LazNKI8De43iUVk0p96wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBALEQ60MyhtZTrI9zozG7iYgqLKuOALa54fSaHrF4DBipDCP/y/99G6tUIxJgceNQRq00ppUVuGaau16w7lwRsb++bEbXpbot+n350fqAHEVKOA5S+eefAtlA1bg0MyNReevZ0rMn3Z1GjCvzzdPfbsdfy6fHC3NDbvxNi//Yq7EU</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

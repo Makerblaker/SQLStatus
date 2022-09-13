@@ -1,0 +1,19 @@
+H:\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.exe.config
+H:\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.exe
+H:\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.pdb
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.frmMain.resources
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.Properties.Resources.resources
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.csproj.GenerateResource.Cache
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.exe
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.pdb
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.exe.config
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.pdb
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Release\SQLStatus.pdb
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.csprojResolveAssemblyReference.cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.frmMain.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.Properties.Resources.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.csproj.GenerateResource.Cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Release\SQLStatus.frmServiceSelection.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Release\Service Manager.exe.config

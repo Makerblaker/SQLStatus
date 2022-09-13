@@ -1,0 +1,10 @@
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\x64\Release\Service Manager.exe.config
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\x64\Release\Service Manager.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\x64\Release\Service Manager.pdb
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\Service Manager.csprojResolveAssemblyReference.cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\ServiceManager.frmMain.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\ServiceManager.frmServiceSelection.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\ServiceManager.Properties.Resources.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\Service Manager.csproj.GenerateResource.Cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\Service Manager.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x64\Release\Service Manager.pdb

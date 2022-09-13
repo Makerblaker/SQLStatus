@@ -1,0 +1,36 @@
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.pdb
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.frmMain.resources
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.Properties.Resources.resources
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\GenerateResource.read.1.tlog
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\GenerateResource.write.1.tlog
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.pdb
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe.manifest
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.application
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe.manifest
+\\thebrain\UserData\blake\My Documents\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.application
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.pdb
+C:\Users\Blake.MILLER\Desktop\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe
+C:\Users\Blake.MILLER\Desktop\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.pdb
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.csprojResolveAssemblyReference.cache
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.frmMain.resources
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.Properties.Resources.resources
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.csproj.GenerateResource.Cache
+H:\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe
+H:\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.pdb
+H:\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe.config
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.TrustInfo.xml
+H:\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe.manifest
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe.config
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\bin\Debug\SQLStatus.pdb
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.csprojResolveAssemblyReference.cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.frmMain.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.frmServiceSelection.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.Properties.Resources.resources
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.csproj.GenerateResource.Cache
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.exe
+\\mars\Home$\Blake\Applications\SQLStatus\SQLStatus\obj\x86\Debug\SQLStatus.pdb
